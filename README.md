@@ -1,7 +1,6 @@
 
 # Redstone
 
-_______________________________________________________________________________________________________________
 
 ## A python project that is meant to implement minecraft redstone.
 
