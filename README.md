@@ -1,6 +1,7 @@
 
-# Redstone
+# redstoneapp
 
-## A project that is meant to implement minecraft redstone in python.
-> This project is currently under development, please be patient until the first release arrives.
+## An application that implements minecraft redstone in a gui app. 
+Written in C (not decided)
+> This project barely has even started. This project will begin once the python library is finished,
 
